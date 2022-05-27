@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(192, 180, 180, 0.5)50%,rgba(192, 180, 180, 0.5)50%),url(imgcont.png);
+    background-size: cover;
+    height: 700px;
+}
+.rectangle17{
+    position: absolute;
+    width: 100%;
+    height: 2065px;
+    background: #FFFFFF;
+    
+}
+.group9
+{
+position: absolute;
+width: 97%;
+height: 80px;
+left: 88px;
+bottom: 2670px;
+
+
+}
+.lien{
+    position: relative;
+    right: 80px;
+    bottom: 70px;
+    font-size: 23.8739px;
+
+}
+.accueil{
+position: absolute;
+width: 63.98px;
+height: 25.31px;
+left: 293px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+
+}
+
+.presentation{
+position: absolute;
+width: 109.68px;
+height: 25.31px;
+left: 402.68px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #EB641C;
+}
+a{
+    text-decoration:none ;
+}
+.service{
+position: absolute;
+width: 72.42px;
+height: 25.31px;
+left: 572.26px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+}
+.realisation{
+position: absolute;
+width: 105.46px;
+height: 25.31px;
+left: 703.88px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+}
+.stage{
+position: absolute;
+width: 50.62px;
+height: 25.31px;
+left: 868.4px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+}
+.contact{
+    position: absolute;
+width: 69.6px;
+height: 25.31px;
+left: 964.58px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+}
+.boutique{
+    position: absolute;
+width: 77.34px;
+height: 25.31px;
+left: 1079.32px;
+top: 68.84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 19.8739px;
+line-height: 25px;
+color: #1A1A1A;
+}
+.logo{
+    width:60px;
+    height: 60px;
+}
+.coN{
+    position: absolute;
+width: 394.8px;
+height: 70px;
+left: 522px;
+top: 90px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 47.2469px;
+line-height: 71px;
+
+color: #EB641C;
+}
+.h24{
+    position: absolute;
+width: 673px;
+height: 123px;
+left: 383px;
+top: 190px;
+
+font-family: 'Poor Story';
+font-style: normal;
+font-weight: 400;
+font-size: 47.2469px;
+line-height: 59px;
+text-align: center;
+
+color: #1A1A1A;
+
+
+}
